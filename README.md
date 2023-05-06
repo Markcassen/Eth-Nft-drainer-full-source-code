@@ -1,3 +1,3 @@
 # ` [Eth-Nft-drainer-full-source-code] `
 
-# THIS DRAINER IS PATCHED, TO GET A WORKING ONE 
+## THIS DRAINER IS OBFUSCATED, TO GET A WORKING ONE 
